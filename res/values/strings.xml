@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Flickr</string>
+<string name="moreFlickrText">Get another image</string>
+<string name="setToBackground">Set Image as Background</string>
+</resources>
